@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-27 06:20",
+  "updated": "2026-05-27 06:30",
   "xuer": {
     "activity": "撰写早安晚安文案",
-    "last_active": "2026-05-27 06:20"
+    "last_active": "2026-05-27 06:30"
   },
   "agents": {
     "kaltsit": {
       "status": "offline",
-      "last_seen": "390m ago"
+      "last_seen": "400m ago"
     },
     "chengxi": {
-      "status": "idle",
-      "last_seen": "20m ago"
+      "status": "online",
+      "last_seen": "< 5m ago"
     }
   },
   "tasks": [],
