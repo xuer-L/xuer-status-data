@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-28 01:00",
+  "updated": "2026-05-28 01:10",
   "xuer": {
     "activity": "准备参加三下乡会议",
-    "last_active": "2026-05-28 01:00"
+    "last_active": "2026-05-28 01:10"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "70m ago"
+      "last_seen": "80m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
