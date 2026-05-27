@@ -1,20 +1,20 @@
 {
-  "updated": "2026-05-27 11:30",
+  "updated": "2026-05-27 11:40",
   "xuer": {
-    "activity": "去上课",
-    "last_active": "2026-05-27 11:30"
+    "activity": "去上课了",
+    "last_active": "2026-05-27 11:40"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "10m ago"
+      "last_seen": "20m ago"
     },
     "chengxi": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
-  "history": [{"time": "07:48", "text": "去上课"}],
+  "history": [{"time": "07:48", "text": "去上课了"}],
   "comment": "凌晨bug修隐私过滤，晚上语音demo全链路打通——五坑三防，值一句辛苦了。"
 }
