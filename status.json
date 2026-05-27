@@ -1,20 +1,20 @@
 {
-  "updated": "2026-05-27 08:00",
+  "updated": "2026-05-27 08:10",
   "xuer": {
-    "activity": "撰写早安晚安文案",
-    "last_active": "2026-05-27 08:00"
+    "activity": "去上课",
+    "last_active": "2026-05-27 08:10"
   },
   "agents": {
     "kaltsit": {
       "status": "offline",
-      "last_seen": "490m ago"
+      "last_seen": "500m ago"
     },
     "chengxi": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
-  "history": [{"time": "22:59", "text": "撰写早安晚安文案"}, {"time": "22:36", "text": "处理多项待办事项"}, {"time": "22:35", "text": "调整页面元素尺寸"}, {"time": "22:34", "text": "讨论状态图标显示规则"}, {"time": "22:26", "text": "优化状态页最近动态模块"}, {"time": "22:22", "text": "规划并重排页面布局"}, {"time": "21:10", "text": "补充技能总结"}, {"time": "20:55", "text": "讨论域名安全相关问题"}],
+  "history": [{"time": "07:48", "text": "去上课"}],
   "comment": "凌晨bug修隐私过滤，晚上语音demo全链路打通——五坑三防，值一句辛苦了。"
 }
