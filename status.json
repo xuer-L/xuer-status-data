@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-28 17:50",
+  "updated": "2026-05-28 18:10",
   "xuer": {
     "activity": "购买小主机",
-    "last_active": "2026-05-28 17:50"
+    "last_active": "2026-05-28 18:10"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "20m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
