@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-28 09:20",
+  "updated": "2026-05-28 09:30",
   "xuer": {
     "activity": "修复状态页显示问题",
-    "last_active": "2026-05-28 09:20"
+    "last_active": "2026-05-28 09:30"
   },
   "agents": {
     "kaltsit": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "10m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
