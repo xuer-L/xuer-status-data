@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-29 01:50",
+  "updated": "2026-05-29 02:00",
   "xuer": {
     "activity": "询问圆形喇叭参数",
-    "last_active": "2026-05-29 01:50"
+    "last_active": "2026-05-29 02:00"
   },
   "agents": {
     "kaltsit": {
       "status": "offline",
-      "last_seen": "120m ago"
+      "last_seen": "130m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
