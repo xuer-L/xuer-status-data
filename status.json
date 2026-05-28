@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-29 06:20",
+  "updated": "2026-05-29 06:30",
   "xuer": {
     "activity": "写梦日记条目",
-    "last_active": "2026-05-29 06:20"
+    "last_active": "2026-05-29 06:30"
   },
   "agents": {
     "kaltsit": {
       "status": "offline",
-      "last_seen": "390m ago"
+      "last_seen": "400m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
