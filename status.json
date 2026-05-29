@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-29 16:50",
+  "updated": "2026-05-29 17:00",
   "xuer": {
     "activity": "讨论 LLM 够用问题",
-    "last_active": "2026-05-29 16:50"
+    "last_active": "2026-05-29 17:00"
   },
   "agents": {
     "kaltsit": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "10m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
