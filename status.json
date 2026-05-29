@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-30 03:50",
+  "updated": "2026-05-30 04:00",
   "xuer": {
     "activity": "询问超级智能代理",
-    "last_active": "2026-05-30 03:50"
+    "last_active": "2026-05-30 04:00"
   },
   "agents": {
     "kaltsit": {
       "status": "offline",
-      "last_seen": "240m ago"
+      "last_seen": "250m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
