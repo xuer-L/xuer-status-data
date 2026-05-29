@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-29 08:40",
+  "updated": "2026-05-29 09:00",
   "xuer": {
     "activity": "写主机崩溃排查日记",
-    "last_active": "2026-05-29 08:40"
+    "last_active": "2026-05-29 09:00"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "10m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "10m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
