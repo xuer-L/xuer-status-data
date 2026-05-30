@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-30 15:30",
+  "updated": "2026-05-30 15:40",
   "xuer": {
     "activity": "想玩云原神",
-    "last_active": "2026-05-30 15:30"
+    "last_active": "2026-05-30 15:40"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "10m ago"
+      "last_seen": "20m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
