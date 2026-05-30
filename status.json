@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-30 22:20",
+  "updated": "2026-05-30 22:32",
   "xuer": {
     "activity": "处理读书小组事务",
-    "last_active": "2026-05-30 22:20"
+    "last_active": "2026-05-30 22:32"
   },
   "agents": {
     "kaltsit": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "13m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "33m ago"
     }
   },
   "tasks": [],
