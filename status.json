@@ -1,20 +1,20 @@
 {
-  "updated": "2026-05-30 13:00",
+  "updated": "2026-05-30 13:10",
   "xuer": {
-    "activity": "关注云原神游戏",
-    "last_active": "2026-05-30 13:00"
+    "activity": "在看云，并想玩原神",
+    "last_active": "2026-05-30 13:10"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "10m ago"
+      "last_seen": "20m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
-  "history": [{"time": "12:06", "text": "关注云原神游戏"}, {"time": "12:06", "text": "想玩原神游戏"}, {"time": "09:33", "text": "提醒组员交申报书"}],
+  "history": [{"time": "12:06", "text": "在看云，并想玩原神"}, {"time": "09:31", "text": "打招呼开始新的一天"}],
   "comment": "压力大到想抽烟最后还是去了肯德基，顺便教我什么叫真正的自我。"
 }
