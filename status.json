@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-31 08:00",
+  "updated": "2026-05-31 08:10",
   "xuer": {
     "activity": "清理 OpenClaw 残留，改用 Hermes Agent",
-    "last_active": "2026-05-31 08:00"
+    "last_active": "2026-05-31 08:10"
   },
   "agents": {
     "kaltsit": {
       "status": "offline",
-      "last_seen": "490m ago"
+      "last_seen": "500m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
