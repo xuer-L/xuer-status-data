@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-31 23:00",
+  "updated": "2026-05-31 23:10",
   "xuer": {
     "activity": "研究购物清单",
-    "last_active": "2026-05-31 23:00"
+    "last_active": "2026-05-31 23:10"
   },
   "agents": {
     "kaltsit": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "12m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
