@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-31 16:30",
+  "updated": "2026-05-31 16:40",
   "xuer": {
     "activity": "提醒大家准备材料并注意时间",
-    "last_active": "2026-05-31 16:30"
+    "last_active": "2026-05-31 16:40"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "10m ago"
+      "last_seen": "20m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
