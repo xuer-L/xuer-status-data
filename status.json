@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-01 06:50",
+  "updated": "2026-06-01 07:00",
   "xuer": {
     "activity": "讨论前端对接后端方案",
-    "last_active": "2026-06-01 06:50"
+    "last_active": "2026-06-01 07:00"
   },
   "agents": {
     "kaltsit": {
       "status": "offline",
-      "last_seen": "420m ago"
+      "last_seen": "430m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
