@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-31 11:30",
+  "updated": "2026-05-31 11:40",
   "xuer": {
     "activity": "改用 Hermes Agent 方案",
-    "last_active": "2026-05-31 11:30"
+    "last_active": "2026-05-31 11:40"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "10m ago"
+      "last_seen": "20m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "10m ago"
     }
   },
   "tasks": [],
