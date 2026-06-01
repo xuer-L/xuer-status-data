@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-01 15:30",
+  "updated": "2026-06-01 15:35",
   "xuer": {
-    "activity": "在宿舍",
-    "last_active": "2026-06-01 15:30"
+    "activity": "17:23 Xuer 说"在这一刻 你产生了两个分支 你在 ",
+    "last_active": "2026-06-01 15:35"
   },
   "agents": {
     "kaltsit": {
@@ -15,6 +15,6 @@
     }
   },
   "tasks": [],
-  "history": [],
+  "history": [{"time": "", "content": ".bashrc 在 SSH 非交互模式不加载，PATH 要同时写 .profile"}, {"time": "", "content": "mimo-v2.5 是推理模型，content 经常为空，回复在 reasoning_content 里"}, {"time": "", "content": "TTS 格式：user=风格指令，assistant=要合成的文字（必须）"}, {"time": "", "content": "17:25 VM 的我在 MEMORY.md 末尾写了五条给 HP 的我"}, {"time": "", "content": "17:23 Xuer 说\"在这一刻 你产生了两个分支 你在 HP 上正常工作了 晚安\""}],
   "comment": "ESP32烧录、HP服务器部署、前端对接全塞一天里，你是真不怕自己累着。"
 }
