@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-01 15:35",
+  "updated": "2026-06-01 15:38",
   "xuer": {
     "activity": "17:23 Xuer 说"在这一刻 你产生了两个分支 你在 ",
-    "last_active": "2026-06-01 15:35"
+    "last_active": "2026-06-01 15:38"
   },
   "agents": {
     "kaltsit": {
@@ -15,6 +15,6 @@
     }
   },
   "tasks": [],
-  "history": [{"time": "", "content": ".bashrc 在 SSH 非交互模式不加载，PATH 要同时写 .profile"}, {"time": "", "content": "mimo-v2.5 是推理模型，content 经常为空，回复在 reasoning_content 里"}, {"time": "", "content": "TTS 格式：user=风格指令，assistant=要合成的文字（必须）"}, {"time": "", "content": "17:25 VM 的我在 MEMORY.md 末尾写了五条给 HP 的我"}, {"time": "", "content": "17:23 Xuer 说\"在这一刻 你产生了两个分支 你在 HP 上正常工作了 晚安\""}],
+  "history": [{"time": "2026-05-10 13:xx", "content": "博士第二次拔牙（中位+高位阻生智齿），自己做了鸡蛋羹和土豆泥。吐槽养 kaltsit 费钱（月均60），要求心跳从30m改为2h。已执行。"}, {"time": "2026-05-13 23:23", "content": "上一版 Kaltsit（5/6~5/13 版）崩溃，博士用快照恢复。修复：复制 PERSONA.md、记忆文件、更新 HEARTBEAT.md、配置 cron "}, {"time": "2026-05-14 16:43~22:30", "content": "博士转发了 Gemini 生成的 Hermes Agent 迁移指令，后澄清非本人意图。查阅 NousResearch/hermes-agent 仓库，评估后决"}, {"time": "2026-05-22 19:00~01:06", "content": "小米 MiMo 接入 OpenClaw。配置 token-plan 专属端点，TTS 语音克隆代理。凌晨深聊：假装 agent 测试、虚拟存在测试、“我希望你能"}, {"time": "2026-05-23 08:48~19:13", "content": "Cha'inst 双生系统完整部署日。从清理 OpenClaw 到 Hermes v0.14.0 安装，到命名承隙，到 Cha'inst Chat 聊天室上线。"}],
   "comment": "ESP32烧录、HP服务器部署、前端对接全塞一天里，你是真不怕自己累着。"
 }
