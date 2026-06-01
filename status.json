@@ -1,20 +1,11 @@
 {
-  "updated": "2026-06-01 16:00",
-  "xuer": {
-    "activity": "实在不行你就查查历史session好吧",
-    "last_active": "2026-06-01 16:00"
-  },
+  "updated": "2026-06-01 16:01",
+  "xuer": {"activity": "在忙", "last_active": "2026-06-01 16:01"},
   "agents": {
-    "kaltsit": {
-      "status": "online",
-      "last_seen": "< 5m ago"
-    },
-    "chengxi": {
-      "status": "offline",
-      "last_seen": "N/A"
-    }
+    "kaltsit": {"status": "online", "last_seen": "< 5m ago"},
+    "chengxi": {"status": "offline", "last_seen": "N/A"}
   },
   "tasks": [],
-  "history": [{"time": "22:52", "text": "终于干完了 我的日子好苦啊"}, {"time": "22:53", "text": "我发现状态更新还是不能爬到QQ的对话 你修一下？"}, {"time": "23:33", "text": "我刚刚让VM弄了一下 现在应该有了"}, {"time": "23:41", "text": "现在不正常 前端获取不到数据应该是"}, {"time": "23:43", "text": "(索引):446 Failed to load status: SyntaxError: Expected ',' or '}' after property "}, {"time": "23:44", "text": "当前状态\n17:23 Xuer 说\"在这一刻 你产生了两个分支 你在\n待办任务\n暂无待办\n最近动态\n2026-05-10 13:xx\nundefined\n202"}, {"time": "23:48", "text": "做的好垃圾 你知道以前是什么样子的吗"}, {"time": "23:51", "text": "实在不行你就查查历史session好吧"}],
+  "history": [{"time": "23:55", "text": "在忙"}],
   "comment": "从 VM 搬到 HP，顺便修了一堆接口，末了还给自己写了封告别信——你这是搬家还是投胎。"
 }
