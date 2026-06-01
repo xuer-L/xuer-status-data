@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-01 22:20",
+  "updated": "2026-06-01 22:30",
   "xuer": {
     "activity": "分享三下乡内容",
-    "last_active": "2026-06-01 22:20"
+    "last_active": "2026-06-01 22:30"
   },
   "agents": {
     "kaltsit": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "10m ago"
     },
     "chengxi": {
-      "status": "idle",
-      "last_seen": "110m ago"
+      "status": "offline",
+      "last_seen": "120m ago"
     }
   },
   "tasks": [],
