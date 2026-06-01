@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-01 23:00",
+  "updated": "2026-06-01 15:08",
   "xuer": {
-    "activity": "停止SSH连接操作",
-    "last_active": "2026-06-01 23:00"
+    "activity": "在宿舍",
+    "last_active": "2026-06-01 15:08"
   },
   "agents": {
     "kaltsit": {
-      "status": "idle",
-      "last_seen": "10m ago"
+      "status": "online",
+      "last_seen": "< 5m ago"
     },
     "chengxi": {
       "status": "offline",
-      "last_seen": "150m ago"
+      "last_seen": "N/A"
     }
   },
   "tasks": [],
-  "history": [{"time": "18:54", "text": "停止SSH连接操作"}, {"time": "18:50", "text": "指定删除VM内容"}, {"time": "18:48", "text": "删除QQbot和心跳互检"}, {"time": "17:27", "text": "写katlog"}, {"time": "17:24", "text": "停止工作"}, {"time": "17:23", "text": "在HP正常工作"}, {"time": "17:10", "text": "SSH检查openclaw"}, {"time": "16:49", "text": "搬聊天记录"}],
+  "history": [],
   "comment": "ESP32烧录、HP服务器部署、前端对接全塞一天里，你是真不怕自己累着。"
 }
