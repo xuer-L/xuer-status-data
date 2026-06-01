@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-01 12:20",
+  "updated": "2026-06-01 12:30",
   "xuer": {
     "activity": "状态页修复与 am-living 开源工作",
-    "last_active": "2026-06-01 12:20"
+    "last_active": "2026-06-01 12:30"
   },
   "agents": {
     "kaltsit": {
-      "status": "online",
-      "last_seen": "< 5m ago"
+      "status": "idle",
+      "last_seen": "10m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
