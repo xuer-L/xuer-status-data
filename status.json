@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-01 16:30",
+  "updated": "2026-06-01 16:31",
   "xuer": {
     "activity": "查看三下乡原有资料",
-    "last_active": "2026-06-01 16:30"
+    "last_active": "2026-06-01 16:31"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "10m ago"
+      "last_seen": "12m ago"
     },
     "chengxi": {
-      "status": "idle",
-      "last_seen": "30m ago"
+      "status": "online",
+      "last_seen": "< 5m ago"
     }
   },
   "tasks": [],
