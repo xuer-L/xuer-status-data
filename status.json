@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-01 20:50",
+  "updated": "2026-06-01 21:00",
   "xuer": {
     "activity": "讨论聊天记录迁移问题",
-    "last_active": "2026-06-01 20:50"
+    "last_active": "2026-06-01 21:00"
   },
   "agents": {
     "kaltsit": {
       "status": "idle",
-      "last_seen": "30m ago"
+      "last_seen": "9m ago"
     },
     "chengxi": {
       "status": "idle",
-      "last_seen": "20m ago"
+      "last_seen": "30m ago"
     }
   },
   "tasks": [],
